@@ -1,9 +1,12 @@
 PREDEF:
+  - intro.re
 
 CHAPS:
-  - ocos5.re
-
-APPENDIX:
-
+  - aboutos5.re
+  - boot.re
+  - kernel.re
+  - userland.re
+  - tools.re
 POSTDEF:
-
+  - postscript.re
+  - refs.re
